@@ -22,3 +22,4 @@ console.log(typeof(dato));
 let dato2 = '45.5'
 dato2= parseInt(dato2);
 console.log(typeof(dato2));
+
